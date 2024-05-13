@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254831064782",
+    "project_id": "jadwal-belajar-solat",
+    "storage_bucket": "jadwal-belajar-solat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254831064782:android:f38df0bd60643cd747429f",
+        "android_client_info": {
+          "package_name": "com.ammar.jadwal_shalat_mengajar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uCUFwInEyVSpNmoUqRx1TVeyAxzWPWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
